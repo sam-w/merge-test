@@ -1,2 +1,4 @@
-# merrge-test
-
+# merge-test
+foo
+bar
+bar
